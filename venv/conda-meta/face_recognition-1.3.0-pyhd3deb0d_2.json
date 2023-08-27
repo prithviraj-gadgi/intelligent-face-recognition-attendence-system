@@ -1,0 +1,196 @@
+{
+  "build": "pyhd3deb0d_2",
+  "build_number": 2,
+  "channel": "https://conda.anaconda.org/conda-forge/noarch",
+  "constrains": [],
+  "depends": [
+    "click >=6.0",
+    "dlib >=19.7",
+    "face_recognition_models >=0.3.0",
+    "numpy >=1.8",
+    "pillow",
+    "python"
+  ],
+  "extracted_package_dir": "C:\\Users\\prith\\anaconda3\\pkgs\\face_recognition-1.3.0-pyhd3deb0d_2",
+  "features": "",
+  "files": [
+    "Lib/site-packages/face_recognition-1.3.0.dist-info/AUTHORS.rst",
+    "Lib/site-packages/face_recognition-1.3.0.dist-info/INSTALLER",
+    "Lib/site-packages/face_recognition-1.3.0.dist-info/LICENSE",
+    "Lib/site-packages/face_recognition-1.3.0.dist-info/METADATA",
+    "Lib/site-packages/face_recognition-1.3.0.dist-info/RECORD",
+    "Lib/site-packages/face_recognition-1.3.0.dist-info/REQUESTED",
+    "Lib/site-packages/face_recognition-1.3.0.dist-info/WHEEL",
+    "Lib/site-packages/face_recognition-1.3.0.dist-info/direct_url.json",
+    "Lib/site-packages/face_recognition-1.3.0.dist-info/entry_points.txt",
+    "Lib/site-packages/face_recognition-1.3.0.dist-info/top_level.txt",
+    "Lib/site-packages/face_recognition/__init__.py",
+    "Lib/site-packages/face_recognition/api.py",
+    "Lib/site-packages/face_recognition/face_detection_cli.py",
+    "Lib/site-packages/face_recognition/face_recognition_cli.py",
+    ".nonadmin",
+    "Lib/site-packages/face_recognition/__pycache__/__init__.cpython-37.pyc",
+    "Lib/site-packages/face_recognition/__pycache__/api.cpython-37.pyc",
+    "Lib/site-packages/face_recognition/__pycache__/face_detection_cli.cpython-37.pyc",
+    "Lib/site-packages/face_recognition/__pycache__/face_recognition_cli.cpython-37.pyc",
+    "Scripts/face_recognition-script.py",
+    "Scripts/face_detection-script.py",
+    "Scripts/face_recognition.exe",
+    "Scripts/face_detection.exe"
+  ],
+  "fn": "face_recognition-1.3.0-pyhd3deb0d_2.tar.bz2",
+  "license": "MIT",
+  "license_family": "MIT",
+  "link": {
+    "source": "C:\\Users\\prith\\anaconda3\\pkgs\\face_recognition-1.3.0-pyhd3deb0d_2",
+    "type": 1
+  },
+  "md5": "f814a33988c3d5309d3f45be43079d11",
+  "name": "face_recognition",
+  "noarch": "python",
+  "package_tarball_full_path": "C:\\Users\\prith\\anaconda3\\pkgs\\face_recognition-1.3.0-pyhd3deb0d_2.tar.bz2",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "site-packages/face_recognition-1.3.0.dist-info/AUTHORS.rst",
+        "path_type": "hardlink",
+        "sha256": "d366b66c14aeadc5afdf2a87fe9605c05e3aa17953f3256ed7529d1f7b9ef608",
+        "sha256_in_prefix": "d366b66c14aeadc5afdf2a87fe9605c05e3aa17953f3256ed7529d1f7b9ef608",
+        "size_in_bytes": 573
+      },
+      {
+        "_path": "site-packages/face_recognition-1.3.0.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "site-packages/face_recognition-1.3.0.dist-info/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "a97254e5ee8167a2bedd456b8c6710fde64d5603422e631d0bc3132c90d5c930",
+        "sha256_in_prefix": "a97254e5ee8167a2bedd456b8c6710fde64d5603422e631d0bc3132c90d5c930",
+        "size_in_bytes": 1072
+      },
+      {
+        "_path": "site-packages/face_recognition-1.3.0.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "431eecd0978b11be59998d35179beda5855c021ad148b632b1497b1f2f10cf70",
+        "sha256_in_prefix": "431eecd0978b11be59998d35179beda5855c021ad148b632b1497b1f2f10cf70",
+        "size_in_bytes": 21598
+      },
+      {
+        "_path": "site-packages/face_recognition-1.3.0.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "e7d431b0b962688a8dbbdee88c259c439e638208cbee5dda6416ee4d68b79e07",
+        "sha256_in_prefix": "e7d431b0b962688a8dbbdee88c259c439e638208cbee5dda6416ee4d68b79e07",
+        "size_in_bytes": 1716
+      },
+      {
+        "_path": "site-packages/face_recognition-1.3.0.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "site-packages/face_recognition-1.3.0.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "67e9f2629c2b712ab17ddbb1e4c6e7fc3439db988fec9d831b72601af398c934",
+        "sha256_in_prefix": "67e9f2629c2b712ab17ddbb1e4c6e7fc3439db988fec9d831b72601af398c934",
+        "size_in_bytes": 110
+      },
+      {
+        "_path": "site-packages/face_recognition-1.3.0.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "95bf9edd4d2bc437984d81cc582aeec7151cce8a66a129778e233f1446218dd6",
+        "sha256_in_prefix": "95bf9edd4d2bc437984d81cc582aeec7151cce8a66a129778e233f1446218dd6",
+        "size_in_bytes": 112
+      },
+      {
+        "_path": "site-packages/face_recognition-1.3.0.dist-info/entry_points.txt",
+        "path_type": "hardlink",
+        "sha256": "5b2bb14d4cbf84f9cf6ed2f67fe7178bae69a182e6b477f5d103ea0c59f3ba9b",
+        "sha256_in_prefix": "5b2bb14d4cbf84f9cf6ed2f67fe7178bae69a182e6b477f5d103ea0c59f3ba9b",
+        "size_in_bytes": 139
+      },
+      {
+        "_path": "site-packages/face_recognition-1.3.0.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "1315d648a375f075cf29ad420ba7afdc657e05eef9829cd2ae6e1b6449587db4",
+        "sha256_in_prefix": "1315d648a375f075cf29ad420ba7afdc657e05eef9829cd2ae6e1b6449587db4",
+        "size_in_bytes": 17
+      },
+      {
+        "_path": "site-packages/face_recognition/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "0a57f60f707a92b53340586ac4cb479bab1e191e72e024a21ad62d3635a50608",
+        "sha256_in_prefix": "0a57f60f707a92b53340586ac4cb479bab1e191e72e024a21ad62d3635a50608",
+        "size_in_bytes": 246
+      },
+      {
+        "_path": "site-packages/face_recognition/api.py",
+        "path_type": "hardlink",
+        "sha256": "b4b0fb151588befa7270273b5a243537e532aba8a14674507806a18ba4a4c35e",
+        "sha256_in_prefix": "b4b0fb151588befa7270273b5a243537e532aba8a14674507806a18ba4a4c35e",
+        "size_in_bytes": 10439
+      },
+      {
+        "_path": "site-packages/face_recognition/face_detection_cli.py",
+        "path_type": "hardlink",
+        "sha256": "8cf5ce2f5fefa963e0dd889964888d02a82d3c689b49ade13e7dc086948b629d",
+        "sha256_in_prefix": "8cf5ce2f5fefa963e0dd889964888d02a82d3c689b49ade13e7dc086948b629d",
+        "size_in_bytes": 2363
+      },
+      {
+        "_path": "site-packages/face_recognition/face_recognition_cli.py",
+        "path_type": "hardlink",
+        "sha256": "17cd68a3fe8a979753f38296b605653b63e145d059090da857b009cda9e02121",
+        "sha256_in_prefix": "17cd68a3fe8a979753f38296b605653b63e145d059090da857b009cda9e02121",
+        "size_in_bytes": 4744
+      },
+      {
+        "_path": "Lib/site-packages/face_recognition/__pycache__/__init__.cpython-37.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/face_recognition/__pycache__/api.cpython-37.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/face_recognition/__pycache__/face_detection_cli.cpython-37.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/face_recognition/__pycache__/face_recognition_cli.cpython-37.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Scripts/face_recognition-script.py",
+        "path_type": "windows_python_entry_point_script"
+      },
+      {
+        "_path": "Scripts/face_detection-script.py",
+        "path_type": "windows_python_entry_point_script"
+      },
+      {
+        "_path": "Scripts/face_recognition.exe",
+        "path_type": "windows_python_entry_point_exe"
+      },
+      {
+        "_path": "Scripts/face_detection.exe",
+        "path_type": "windows_python_entry_point_exe"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "face_recognition==1.3.0",
+  "sha256": "92119d81ce684b76f4ed8744d4ff8a03e0ca8ae2c3d62a2021be24bf2b588b4a",
+  "size": 17183,
+  "subdir": "noarch",
+  "timestamp": 1619808387261,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/conda-forge/noarch/face_recognition-1.3.0-pyhd3deb0d_2.tar.bz2",
+  "version": "1.3.0"
+}

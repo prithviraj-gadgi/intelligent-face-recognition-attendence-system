@@ -1,0 +1,141 @@
+{
+  "build": "pyh9f0ad1d_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/conda-forge/noarch",
+  "constrains": [],
+  "depends": [
+    "python",
+    "setuptools"
+  ],
+  "extracted_package_dir": "C:\\Users\\prith\\anaconda3\\pkgs\\face_recognition_models-0.3.0-pyh9f0ad1d_0",
+  "features": "",
+  "files": [
+    "Lib/site-packages/face_recognition_models-0.3.0.dist-info/INSTALLER",
+    "Lib/site-packages/face_recognition_models-0.3.0.dist-info/LICENSE",
+    "Lib/site-packages/face_recognition_models-0.3.0.dist-info/METADATA",
+    "Lib/site-packages/face_recognition_models-0.3.0.dist-info/RECORD",
+    "Lib/site-packages/face_recognition_models-0.3.0.dist-info/WHEEL",
+    "Lib/site-packages/face_recognition_models-0.3.0.dist-info/direct_url.json",
+    "Lib/site-packages/face_recognition_models-0.3.0.dist-info/top_level.txt",
+    "Lib/site-packages/face_recognition_models/__init__.py",
+    "Lib/site-packages/face_recognition_models/models/dlib_face_recognition_resnet_model_v1.dat",
+    "Lib/site-packages/face_recognition_models/models/mmod_human_face_detector.dat",
+    "Lib/site-packages/face_recognition_models/models/shape_predictor_5_face_landmarks.dat",
+    "Lib/site-packages/face_recognition_models/models/shape_predictor_68_face_landmarks.dat",
+    ".nonadmin",
+    "Lib/site-packages/face_recognition_models/__pycache__/__init__.cpython-37.pyc"
+  ],
+  "fn": "face_recognition_models-0.3.0-pyh9f0ad1d_0.tar.bz2",
+  "license": "CC0-1.0",
+  "license_family": "CC",
+  "link": {
+    "source": "C:\\Users\\prith\\anaconda3\\pkgs\\face_recognition_models-0.3.0-pyh9f0ad1d_0",
+    "type": 1
+  },
+  "md5": "c2b3e463570b6509ca4ddd896904cf17",
+  "name": "face_recognition_models",
+  "noarch": "python",
+  "package_tarball_full_path": "C:\\Users\\prith\\anaconda3\\pkgs\\face_recognition_models-0.3.0-pyh9f0ad1d_0.tar.bz2",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "site-packages/face_recognition_models-0.3.0.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "site-packages/face_recognition_models-0.3.0.dist-info/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "6a1ee543e5282cd9061881edf462e6fdab181f328da71fc2c9a6950a80e94d01",
+        "sha256_in_prefix": "6a1ee543e5282cd9061881edf462e6fdab181f328da71fc2c9a6950a80e94d01",
+        "size_in_bytes": 6556
+      },
+      {
+        "_path": "site-packages/face_recognition_models-0.3.0.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "cb441626e832bfa3d5715732873bc0010c5cfab57ad80c76b7af8cac0d3f1e0e",
+        "sha256_in_prefix": "cb441626e832bfa3d5715732873bc0010c5cfab57ad80c76b7af8cac0d3f1e0e",
+        "size_in_bytes": 1313
+      },
+      {
+        "_path": "site-packages/face_recognition_models-0.3.0.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "560a7ed763e0cd5401d09a121684151e0c8722e35c4dd51cf8a7082e6ec7b9d9",
+        "sha256_in_prefix": "560a7ed763e0cd5401d09a121684151e0c8722e35c4dd51cf8a7082e6ec7b9d9",
+        "size_in_bytes": 1354
+      },
+      {
+        "_path": "site-packages/face_recognition_models-0.3.0.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "9064fbe0b5b245466b2f85602e1ebf835d8879597ff6ef5956169dae05d95046",
+        "sha256_in_prefix": "9064fbe0b5b245466b2f85602e1ebf835d8879597ff6ef5956169dae05d95046",
+        "size_in_bytes": 110
+      },
+      {
+        "_path": "site-packages/face_recognition_models-0.3.0.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "6547715f4a8e3680f1f848f5a5b384e9be09e53de7f1db0cb552e3da1a59ce0f",
+        "sha256_in_prefix": "6547715f4a8e3680f1f848f5a5b384e9be09e53de7f1db0cb552e3da1a59ce0f",
+        "size_in_bytes": 119
+      },
+      {
+        "_path": "site-packages/face_recognition_models-0.3.0.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "98e4b20830aaf78f8d914aa494bb6762c77a9b088e0e0652fde499ea2d595307",
+        "sha256_in_prefix": "98e4b20830aaf78f8d914aa494bb6762c77a9b088e0e0652fde499ea2d595307",
+        "size_in_bytes": 24
+      },
+      {
+        "_path": "site-packages/face_recognition_models/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "5b6daa86bef028cdb5092bb955f2f0c948246f44d46afa4e42b2fca040b7c595",
+        "sha256_in_prefix": "5b6daa86bef028cdb5092bb955f2f0c948246f44d46afa4e42b2fca040b7c595",
+        "size_in_bytes": 668
+      },
+      {
+        "_path": "site-packages/face_recognition_models/models/dlib_face_recognition_resnet_model_v1.dat",
+        "path_type": "hardlink",
+        "sha256": "55533b28a95800a551ba546ba62fe69625c7e95a7061c338adffead08719da30",
+        "sha256_in_prefix": "55533b28a95800a551ba546ba62fe69625c7e95a7061c338adffead08719da30",
+        "size_in_bytes": 22466066
+      },
+      {
+        "_path": "site-packages/face_recognition_models/models/mmod_human_face_detector.dat",
+        "path_type": "hardlink",
+        "sha256": "4cb19393e2fbaf2b1609a9319ad5386618c886a6234ec1b971f3e87c85d87fe6",
+        "sha256_in_prefix": "4cb19393e2fbaf2b1609a9319ad5386618c886a6234ec1b971f3e87c85d87fe6",
+        "size_in_bytes": 729940
+      },
+      {
+        "_path": "site-packages/face_recognition_models/models/shape_predictor_5_face_landmarks.dat",
+        "path_type": "hardlink",
+        "sha256": "c4b1e9804792707d3a405c2c16a80a20269e6675021f64a41d30fffafbc41888",
+        "sha256_in_prefix": "c4b1e9804792707d3a405c2c16a80a20269e6675021f64a41d30fffafbc41888",
+        "size_in_bytes": 9150489
+      },
+      {
+        "_path": "site-packages/face_recognition_models/models/shape_predictor_68_face_landmarks.dat",
+        "path_type": "hardlink",
+        "sha256": "fbdc2cb80eb9aa7a758672cbfdda32ba6300efe9b6e6c7a299ff7e736b11b92f",
+        "sha256_in_prefix": "fbdc2cb80eb9aa7a758672cbfdda32ba6300efe9b6e6c7a299ff7e736b11b92f",
+        "size_in_bytes": 99693937
+      },
+      {
+        "_path": "Lib/site-packages/face_recognition_models/__pycache__/__init__.cpython-37.pyc",
+        "path_type": "pyc_file"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "360d0c720272e69308509f606f2f2a2e1ccbfdf3d7367e03e4e6900faeb9a761",
+  "size": 91928620,
+  "subdir": "noarch",
+  "timestamp": 1595707540093,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/conda-forge/noarch/face_recognition_models-0.3.0-pyh9f0ad1d_0.tar.bz2",
+  "version": "0.3.0"
+}

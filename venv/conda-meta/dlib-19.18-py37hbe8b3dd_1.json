@@ -1,0 +1,49 @@
+{
+  "arch": "x86_64",
+  "build": "py37hbe8b3dd_1",
+  "build_number": 1,
+  "channel": "https://conda.anaconda.org/conda-forge/label/cf202003/win-64",
+  "constrains": [],
+  "depends": [
+    "jpeg >=9c,<10a",
+    "libpng >=1.6.37,<1.7.0a0",
+    "numpy >=1.14.6,<2.0a0",
+    "python >=3.7,<3.8.0a0",
+    "vc >=14,<15.0a0"
+  ],
+  "extracted_package_dir": "C:\\Users\\prith\\anaconda3\\pkgs\\dlib-19.18-py37hbe8b3dd_1",
+  "features": "",
+  "files": [
+    "Lib/site-packages/dlib.cp37-win_amd64.pyd",
+    ".nonadmin"
+  ],
+  "fn": "dlib-19.18-py37hbe8b3dd_1.tar.bz2",
+  "license": "BSL-1.0",
+  "link": {
+    "source": "C:\\Users\\prith\\anaconda3\\pkgs\\dlib-19.18-py37hbe8b3dd_1",
+    "type": 1
+  },
+  "md5": "0c49738631435ce1fd532ca6cd67b032",
+  "name": "dlib",
+  "package_tarball_full_path": "C:\\Users\\prith\\anaconda3\\pkgs\\dlib-19.18-py37hbe8b3dd_1.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Lib/site-packages/dlib.cp37-win_amd64.pyd",
+        "path_type": "hardlink",
+        "sha256": "b86020cb034792e8c6668bd69ec2034eea94836d92443d9ab58570b884892730",
+        "sha256_in_prefix": "b86020cb034792e8c6668bd69ec2034eea94836d92443d9ab58570b884892730",
+        "size_in_bytes": 8625152
+      }
+    ],
+    "paths_version": 1
+  },
+  "platform": "win32",
+  "requested_spec": "dlib==19.18.0",
+  "size": 3447349,
+  "subdir": "win-64",
+  "timestamp": 1572259775981,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/conda-forge/label/cf202003/win-64/dlib-19.18-py37hbe8b3dd_1.tar.bz2",
+  "version": "19.18"
+}
