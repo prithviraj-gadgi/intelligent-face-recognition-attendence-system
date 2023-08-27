@@ -14,9 +14,9 @@ Below you can find the guide to install and setup Anaconda and Visual C++ compil
 > Path to QT Designer: `"\...\venv\Lib\site-packages\qt5_applications\Qt\bin\designer.exe"`
 
 ### Follow below steps to execute this project:
-- Clone the projet into a directory.
-- Open VS Code into that directory.
-- Select the python interpreter (`venv`) which is already present in the cloned repo.
+- Clone the project into a directory.
+- Open the project in VS Code.
+- Select the conda virtual environment as the python interpreter (`venv`) which is already present in the repository.
 - Run `mainwindow.py`
 
 Before running this project you must add your image in the `ImagesAttendance` folder and rename the image with your name. Attendance data will be stored in `Attendance.csv` file.
